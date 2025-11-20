@@ -1,4 +1,4 @@
-A Multi-Modal Machine Learning Approach for Predicting Hiking Route Difficulty Using Geographic and User Generated Data
+## A Multi-Modal Machine Learning Approach for Predicting Hiking Route Difficulty Using Geographic and User Generated Data
 
 The study aims to classify hiking paths using an objective approach to handle identified problems. Combining user-generated data from the Wikiloc platform with quantified geographical data obtained from the GPX file sought to create a more consistent approach.
 
