@@ -31,13 +31,13 @@ The pipeline runs sequentially, ensuring data integrity at each step.
 
 ---
 
-## 💻 Technical Stack
+## Technical Stack
 
 * **Language:** Python
 * **Libraries:** Pandas, NumPy, requests, BeautifulSoup, Selenium (for scraping)
 
 
-## 🔮 Future Work & Impact
+## Future Work & Impact
 
 This project is currently at the stage of **Data Preparation and Feature Engineering**.
 
