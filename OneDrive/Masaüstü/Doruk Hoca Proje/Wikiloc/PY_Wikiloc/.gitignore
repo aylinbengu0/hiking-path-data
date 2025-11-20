@@ -13,3 +13,12 @@ __pycache__/
 # Operating System files
 .DS_Store
 Thumbs.db
+
+# Excel output files (Added after accidental commit)
+*.xlsx
+
+# Specific Python scripts not part of the main project
+interview.py
+machine_deneme.py
+topic_modelling_cikarim.py
+
